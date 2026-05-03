@@ -19,7 +19,7 @@
 
 
 
-Quantitative Researcher and Data Scientist with 7+ years of experience applying Machine Learning, Deep Learning, econometrics, and stochastic modeling to complex systems and financial markets, with a current focus on cryptocurrencies, DeFi, and blockchain. Proven track record in developing end-to-end ML pipelines, deep neural networks (CNNs, autoencoders), and large-scale data-driven solutions across both industry and academia.
+Quantitative Researcher and Data Scientist with 8+ years of experience applying Machine Learning, Deep Learning, econometrics, and stochastic modeling to complex systems and financial markets, with a current focus on cryptocurrencies, DeFi, and blockchain. Proven track record in developing end-to-end ML pipelines, deep neural networks (CNNs, autoencoders), and large-scale data-driven solutions across both industry and academia.
 
 Current research (PhD, PUC-Rio): Behavioral Finance and digital asset markets, including investor behavior, market efficiency, and herding dynamics. My work integrates causal inference (Synthetic Difference-in-Differences), asset pricing models, and large-scale ML analysis across 1,000+ cryptocurrencies, combining statistical rigor with AI-driven insights.
 
