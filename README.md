@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Israel Junior
+# 👩🏻‍💻 Isra Junior
 
 **`Behavioral Finance & Crypto Researcher | AI | Blockchain`**
 
